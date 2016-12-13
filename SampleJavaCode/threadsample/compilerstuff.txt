@@ -1,0 +1,6 @@
+
+java ConcurrentImageProcessorTaskParallel 4 weird C:\Users\Owner\Documents\workspace\ICS432_PA6_andrewmn\src\temp
+
+java ConcurrentImageProcessorDataParallel 4 weird C:\Users\Owner\Documents\workspace\ICS432_PA6_andrewmn\src\temp
+
+set CLASSPATH=C:\Users\Owner\Documents\workspace\ICS432_PA6_andrewmn\src\Filters.jar;.

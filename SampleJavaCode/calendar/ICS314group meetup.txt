@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+SUMMARY:ICS314group meetup
+DTSTART;TZID=Pacific/Honolulu;VALUE=DATE-TIME:20140730T150500Z
+RRULE:FREQ=YEARLY
+DTEND;TZID=Pacific/Honolulu;VALUE=DATE-TIME:20140730T185300Z
+LOCATION:1126D 19th Ave Honolulu Hawaii 96816
+DESCRIPTION:Wfrvbsfrbfrgbbggggggggggggggggggggggggggggggfdvdvdfsvfsdbfgsb fsvb fsgv bfgvs bgfb gf fv vf bfgbfdsb 
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR
